@@ -5,24 +5,24 @@ const chalk = require('chalk')
 global.simBotname = "Anya" //⚠️ ᴏɴʟʏ ᴜsᴇ ɴᴏʀᴍᴀʟ ғᴏɴᴛ ᴀɴᴅ sɪɴɢʟᴇ ᴡᴏʀᴅ ғᴏʀ ᴛʜɪs ɴᴀᴍᴇ ⚠️//
 
              //--------Owner & vcard--------\\
-             global.botname = "Queen Anya" 
-             global.ownernumber = ['918811074852'] // Owner number //
-             global.vcardowner = ['918811074852'] // vcard owner number //
-             global.ownername = "3.69_Pika" // Owner name //
+             global.botname = "BLAC ZEE" 
+             global.ownernumber = ['94771829019'] // Owner number //
+             global.vcardowner = ['94771829019'] // vcard owner number //
+             global.ownername = "AMILA PATHUM" // Owner name //
              global.ytname = "YT: ONYXPIKA" // Yt chanel name //
              global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4" // Github or insta name //
              global.location = "India, Assam, Dibrugarh" // Location //
              global.aliveMessage = `🦋⃟≛⃝ 𝗔𝗻𝘆𝗮ᵇʸ ᵖⁱᵏᵃ•••       ⬇️` // Alive message for menu //
-             global.owner = ['918811074852','917355622763','919673141317']
-             global.ownertag = '918811074852' // Tag number //
-             global.linkz = "https://wa.me/+918811074852" // Theme url which will be displayed on whatsapp //
+             global.owner = ['94771829019']
+             global.ownertag = '94771829019' // Tag number //
+             global.linkz = "https://wa.me/+94771829019" // Theme url which will be displayed on whatsapp //
              global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
              global.botscript = 'Not available publicly' // Script link //
-             global.packname = "𝐴𝑛𝑦𝑎💫 вσᡶ 𝖻ꪗ ρỉƙꪖ" // sticker watermark packname //
+             global.packname = "BLACK ZEE" // sticker watermark packname //
              global.author = "🥵3.69_ρỉƙꪖ" // sticker watermark author //
              actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of welcome and left message //
-             global.premium = ['918811074852'] // premium numbers //
-             global.headerText = "Anya by Pika" // text for header of menus //
+             global.premium = ['94771829019'] // premium numbers //
+             global.headerText = "BLACK ZEE" // text for header of menus //
              global.waterMark = "×͜× Pika™ ✓" // Your own watermark //
 
 global.prefa = ['/','-']
